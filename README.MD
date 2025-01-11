@@ -22,6 +22,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 - Audio gerado pela elevenLabs
 - Capcut para tratar aúdio e adicionar sons de fundo
 ## 🚀 Resultados
+
 O podcast apresenta de forma simples sobre investimentos renda fixa, o conteúdo foi gerado com fins didáticos de construção e pode conter erros gerados por uma IA
 ---
 
